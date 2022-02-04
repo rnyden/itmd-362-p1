@@ -95,17 +95,24 @@
 	  <li>Built a cosmic ray detector</li>
 	  <li>Researched muons, photons, theory of special relativity, etc.</li>
 	</ul>
-  </section>                                                                                                                                           _
-Skills                                                                                                                                                _
-Computer: MS Office, Python, LaTex, Creo Parametric, Autodesk Inventor, JMARS, Trello, Mural, Zoom
-Language: Conversant in Spanish
-Other: Preliminary Design Review, project schedules, collaboration
-Activities                                                                                                                                         _
-President, Writers at Illinois Tech
-Sound & Lighting Manager, 33rd Productions
-Secretary, Polish Student Society at Illinois Institute of Technology
-Co-events Coordinator, Art Club at Illinois Institute of Technology
-Member, Veterans of Foreign Wars Auxiliary Post 5079
-
+  </section>  
+  <section>
+    <header>
+	  <h2>Skills</h2>
+	</header>
+	<p>Computer: MS Office, Python, LaTex, Creo Parametric, Autodesk Inventor, JMARS, Trello, Mural, Zoom</p>
+	<p>Language: Conversant in Spanish</p>
+	<p>Other: Preliminary Design Review, project schedules, collaboration</p>
+  </section>
+  <section>
+    <header>
+	  <h2>Activities</h2>
+	</header>
+	<p>President, Writers at Illinois Tech</p>
+	<p>Sound & Lighting Manager, 33rd Productions</p>
+	<p>Secretary, Polish Student Society at Illinois Institute of Technology</p>
+	<p>Co-events Coordinator, Art Club at Illinois Institute of Technology</p>
+	<p>Member, Veterans of Foreign Wars Auxiliary Post 5079</p>
+  </section>
 </body>
 </html>
