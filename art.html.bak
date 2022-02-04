@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>R.E.N.'s Art</title>
+  <title>AMDOS Art</title>
 </head>
 <body>
   <nav>
@@ -16,8 +16,9 @@
   </nav>
   <section>
     <header>
-	  
+	  <h1>R.E.N.'s Art Exhibit</h1>
 	</header>
+	<p>Every piece of art will have a related description below. Please enjoy your viewing!
   </section>
 </body>
 </html>
