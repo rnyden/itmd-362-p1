@@ -40,27 +40,47 @@
 	  <header>
 	    <h3>Trey Labak</h3>
 	  </header>
+	  <ul>
+	    <li>Electrical Engineering Undergraduate student at IIT</li>
+		<li>Lead Product designer</li>
+		<li>Plays Piano, Bass, and Saxophone</li>
+	  </ul>
 	</div>
 	<div>
 	  <header>
 	    <h3>Tim Larkin</h3>
 	  </header>
+	  <ul>
+	    <li>Mechanical and Aerospace Graduate student at IIT</li>
+		<li>Plays Electric and Acoustic Guitar</li>
+	  </ul>
 	</div>
 	<div>
 	  <header>
 	    <h3>Reeanna Nyden</h3>
       </header>
+	  <ul>
+	    <li>Mechanical Engineering Undergraduate student at IIT</li>
+		<li>Plays Piano</li>
+	  </ul>
 	</div>
 	<div>
 	  <header>
 	    <h3>Dawn Ross</h3>
 	  </header>
+	  <ul>
+	    <li>In charge of Finance and Marketing</li>
+	  </ul>
 	</div>
 	<div>
-	<h3>Rehan Hasan</h3>
+	  <header>
+	    <h3>Rehan Hasan</h3>
+	  </header>
 	</div>
 	<div>
-	<h3>Yevhenii Sukhorukov</h3>
+	  <header>
+	    <h3>Yevhenii Sukhorukov</h3>
+	  </header>
 	</div>
   </section>
 </body>
