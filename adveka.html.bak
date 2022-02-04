@@ -10,13 +10,15 @@
   <nav>
     <ul>
       <li><a href="index.html">Nyden's Resume</a></li>
-	  <li><a href="art.html">R.E.N.'s Art</a></li>
+	  <li><a href="art.html">AMDOS's Art</a></li>
 	  <li><a href="adveka.html">About Mochiphon</a></li>
     </ul>
   </nav>
   <section>
     <header>
 	  <h1>MOCHIPHON</h1>
+	  <img src="IMG/mochi_logo.png" alt="logo of mochiphone"/>
+	  <img src="IMG/topview.png" alt="top view of mochiphone"/>
 	  <h2>Our Vision</h2>
 	</header>
 	<p>We strive to introduce a new way to create and play music for physically challenged individuals.</p>
