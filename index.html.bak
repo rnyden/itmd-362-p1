@@ -10,7 +10,7 @@
   <nav>
     <ul>
       <li><a href="index.html">Nyden's Resume</a></li>
-	  <li><a href="art.html">Ren's Art</a></li>
+	  <li><a href="art.html">R.E.N.'s Art</a></li>
 	  <li><a href="adveka.html">About Mochiphon</a></li>
     </ul>
   </nav>
@@ -68,6 +68,7 @@
 	  <h2>Projects</h2>
 	</header>
 	<h3>MOCHIPHON - Musical Instrument: August 2021 - PRESENT</h3>
+	<img src="IMG/protomochi.png" alt="Prototyped instrument"/>
 	<ul>
 	  <li>Designed a new musical instrument that is ideal for users with limited hand mobility</li>
 	  <li>Collaborated in a team of four people</li>
@@ -84,6 +85,7 @@
 	  <li>Collaborated in a team of 18 people</li>
 	</ul>
 	<h3>FOAM BOARD CHAIR - an assignment: Fall 2019</h3>
+	<img src="IMG/foamchair.png" alt="Prototyped chair"/>
 	<ul>
 	  <li>Designed a chair using Autodesk Inventor</li>
 	  <li>Prototyped the chair using only foam board and a laser cutter</li>
