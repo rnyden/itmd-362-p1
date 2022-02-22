@@ -54,12 +54,10 @@
 	  <h2>Sound Effects</h2>
 	</header>
 	<figure>
-      <figcaption>Listen to birds:</figcaption>
+      <figcaption>Listen to birds chirping:</figcaption>
       <audio
         controls
-        src="IMG/Birds_singing.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
+        src="IMG/Birds_singing.mp3"> Your browser does not support the <code>audio</code> element.
       </audio>
     </figure>
 	<audio src="IMG/Birds_singing.mp3"></audio>

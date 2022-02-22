@@ -59,7 +59,7 @@
 	<h3>NATIONAL AERONAUTICS AND SPACE ADMINISTRATION: Online</h3>
 	<h4>L’SPACE Mission Concept Academy student: May 2020 - August 2020</h4>
 	<img src="IMG/nasacert.png" alt="Certification of Completion"/>
-	<iframe width="885" height="498" src="https://www.youtube.com/embed/cCrOh1Qrf9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="885" height="498" src="https://www.youtube.com/embed/cCrOh1Qrf9Q" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<p>This video shows what L'Space involves.</p>
 	<ul>
 	  <li>Collaborated on a team of five people to write a preliminary design review</li>
